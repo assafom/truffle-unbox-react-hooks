@@ -2,6 +2,17 @@
 
 A starter kit for Dapps using Truffle and React Hooks.
 
+To run with fixed ganache keys + truffle console:
+./rganache
+In another console:
+./tconsole
+"migrate --reset" in truffle console
+In another console:
+cd client
+npm start
+
+
+Or just as general develop env:
 To run:
 truffle develop
 migrate --reset
