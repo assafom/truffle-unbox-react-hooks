@@ -2,6 +2,8 @@
 
 A starter kit for Dapps using Truffle and React Hooks.
 
+To install, type "yarn" at /client.
+
 To run with fixed ganache keys + truffle console:
 ```
 ./rganache
